@@ -1,2 +1,2 @@
 # DeepDeploy
-A deployed deep learning application for perception
+A deployed C++ deep learning application for perception developed using PyTorch. 
